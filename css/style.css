@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+	background-color: #dddbdb;
+}
+
+.box{
+	min-height: 100px;
+	background-color: red;
+	color: white;
+	margin-bottom: 20px;
+}
+
+.alert-info {
+	color: #fff;
+	background-color: #f00;
+	border-color: #dc4343;
+}
